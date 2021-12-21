@@ -1,0 +1,11 @@
+{
+    "images_path" : "data/ears_yolo/images/test",
+    "annotations_path" : "data/ears_yolo/labels/test",
+    "images_hist_path" : "data/ears_yolo/images/test_hist",
+    "images_gauss_path" : "data/ears_yolo/images/test_gauss",
+    "images_hist_gauss_path" : "data/ears_yolo/images/test_hist_gauss",
+    "images_invert_path" : "data/ears_yolo/images/test_invert",
+    "images_hist_invert_path" : "data/ears_yolo/images/test_hist_invert",
+    "images_gauss_invert_path" : "data/ears_yolo/images/test_gauss_invert",
+    "images_hist_gauss_invert_path" : "data/ears_yolo/images/test_hist_gauss_invert"
+}
